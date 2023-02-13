@@ -11,15 +11,17 @@ Contenedor Docker con apache y php 7.4 + script de fecha actual
 
 ## Installation
 
-Clonar el repositorio de github
+Descargar el repositorio de github
 
 ```bash
   Debe tener instalado docker para Linux o Windows
 ```
 
 ```bash
-  git clone: https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
+  https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
+  Una vez descargado el proyecto ingresar a la carpeta 
   cd cuantic-jorge-lopez-docker
+  Levantar el contenedor
   docker-compose up -d
   ingresar al navegador url: localhost:8085
   ```
@@ -35,7 +37,7 @@ For support, email jorgeenriquelopezing@gmail.com
 Clone the project
 
 ```bash
-  git clone https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
+  Descargar el proyecto https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
 ```
 
 Go to the project directory
