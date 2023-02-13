@@ -14,6 +14,10 @@ Contenedor Docker con apache y php 7.4 + script de fecha actual
 Clonar el repositorio de github
 
 ```bash
+  Debe tener instalado docker para Linux o Windows
+```
+
+```bash
   git clone: https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
   cd cuantic-jorge-lopez-docker
   docker-compose up -d
@@ -46,4 +50,6 @@ Start the server
 ```bash
   docker-compose up -d
 ```
-
+```bash
+  ingresar al navegador url: localhost:8085
+```
