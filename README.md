@@ -18,7 +18,8 @@ Descargar el repositorio de github
 ```
 
 ```bash
-  https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
+
+  Descargar el proyect https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
   Una vez descargado el proyecto ingresar a la carpeta 
   cd cuantic-jorge-lopez-docker
   Levantar el contenedor
