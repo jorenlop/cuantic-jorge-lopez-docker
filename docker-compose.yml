@@ -1,0 +1,12 @@
+version: '3'
+services:
+  web:
+    image: 'php:7.4-apache'
+    container_name: php-cuantic
+    restart: always
+    ports:
+      - '8085:80'
+    volumes:
+      - './html:/var/www/html'
+volumes:
+  html: {}
