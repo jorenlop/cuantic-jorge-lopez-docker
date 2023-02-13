@@ -19,7 +19,7 @@ Descargar el repositorio de github
 
 ```bash
 
-  Descargar el proyecto https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
+  Descargar el proyecto o clonar https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
   Una vez descargado el proyecto ingresar a la carpeta 
   cd cuantic-jorge-lopez-docker
   Levantar el contenedor
@@ -38,7 +38,7 @@ For support, email jorgeenriquelopezing@gmail.com
 Clone the project
 
 ```bash
-  Descargar el proyecto https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
+  Descargaro clonar el proyecto https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
 ```
 
 Go to the project directory
