@@ -1,58 +1,56 @@
-
 # Docker-php7.4-apache-Jorge_Lopez
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Contenedor Docker con apache y php 7.4 + script de fecha actual
+## Descripción 🚀
 
+_Contenedor docker de php 7.4 con apache el cual muestra la fecha actual_
 
-## Authors
-
-- [@jorenlop](https://www.github.com/jorenlop)
-
-
-## Installation
-
-Descargar el repositorio de github
-
+### Pre-requisitos 📋
+```
+Windows: Docker Desktop instalado
+Linux Docker cli Instalado
+```
+### Instalación 🔧
 ```bash
-  Debe tener instalado docker para Linux o Windows
+git clone https://github.com/jorenlop/cuantic-jorge-lopez-docker.git o descargar el zip
+Ingresar a la carpeta
+cd cuantic-jorge-lopez-docker
+Levantar el contenedor
+docker-compose up -d
+ingresar al navegador url: localhost:8085
 ```
 
-```bash
+## Despliegue 📦
 
-  Descargar el proyecto o clonar https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
-  Una vez descargado el proyecto ingresar a la carpeta 
-  cd cuantic-jorge-lopez-docker
-  Levantar el contenedor
-  docker-compose up -d
-  ingresar al navegador url: localhost:8085
-  ```
-    
-## Support
-
-For support, email jorgeenriquelopezing@gmail.com
+_Una vez el contenedor este arriba ingresar a la url: localhost:8085 para ver al fecah actual_
 
 
 
-## Run Locally
 
-Clone the project
+## Construido con 🛠️
 
-```bash
-  Descargaro clonar el proyecto https://github.com/jorenlop/cuantic-jorge-lopez-docker.git
-```
+_Docker_
+_YAML_
 
-Go to the project directory
+## Wiki 📖
 
-```bash
-  cd cuantic-jorge-lopez-docker
-```
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/jorenlop/cuantic-jorge-lopez-docker/wiki)
+
+## Versionado 📌
+
+[SemVer](https://semver.org/) para el versionado.
+
+## Autores ✒️
+
+* **Jorge Enrique López** - *Desarrollo* - [jorenlop](#jorenlop)
 
 
-Start the server
+## Licencia 📄
 
-```bash
-  docker-compose up -d
-```
-```bash
-  ingresar al navegador url: localhost:8085
-```
+Este proyecto está bajo la Licencia (GPL/GNU) 
+
+## Agradecimientos 🎁
+
+* Gracias a CUANTIC 📢
+* Despues nos tomamos un café ☕ 
+---
