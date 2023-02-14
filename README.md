@@ -22,7 +22,7 @@ ingresar al navegador url: localhost:8085
 
 ## Despliegue 📦
 
-_Una vez el contenedor este arriba ingresar a la url: localhost:8085 para ver al fecah actual_
+_Una vez el contenedor este arriba ingresar a la url: localhost:8085 para ver al fecha actual_
 
 
 
