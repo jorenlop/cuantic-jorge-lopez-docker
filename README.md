@@ -24,9 +24,6 @@ ingresar al navegador url: localhost:8085
 
 _Una vez el contenedor este arriba ingresar a la url: localhost:8085 para ver al fecha actual_
 
-
-
-
 ## Construido con 🛠️
 
 _Docker_
@@ -43,7 +40,6 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 ## Autores ✒️
 
 * **Jorge Enrique López** - *Desarrollo* - [jorenlop](#jorenlop)
-
 
 ## Licencia 📄
 
